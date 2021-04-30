@@ -6,5 +6,3 @@ spec:
   containers:
     - name: myserver
       image: nginx
-      ports:
-        containerPort: 80

@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: kplabs-cmdargs
+  name: test-nginx.
 spec:
   containers:
     - image: mykplabs/kubernetes:nginx
