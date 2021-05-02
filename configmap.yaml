@@ -1,0 +1,10 @@
+apiVersion: v1
+data:
+  author: toby
+  port: "8080"
+  source: /src
+  type: app
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: app-config2
